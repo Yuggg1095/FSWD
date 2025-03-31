@@ -1,0 +1,8 @@
+
+System Information:
+------------------------------
+OS Type: Windows_NT
+Total Memory: 7.88 GB
+Free Memory: 1.93 GB
+CPU Cores: 4
+CPU Model: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
